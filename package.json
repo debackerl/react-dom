@@ -1,7 +1,7 @@
 {
   "name": "react-dom",
   "description": "A React compatibility layer for Preact",
-  "version": "16.13.1",
+  "version": "16.14.0",
   "homepage": "https://github.com/preact/compat",
   "bugs": "https://github.com/developit/preact/issues",
   "license": "MIT",
